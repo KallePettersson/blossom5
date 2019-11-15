@@ -1,5 +1,4 @@
 BLOSSOM V - implementation of Edmonds' algorithm for computing a minimum cost perfect matching in a graph
-Version 2.05
 http://pub.ist.ac.at/~vnk/software.html
 
 Details of the implementation are described in
